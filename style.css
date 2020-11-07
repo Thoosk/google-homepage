@@ -107,13 +107,12 @@ ul.right_side img:hover {
 #nav-bar a {
     text-decoration: none;
     color: #000;
-    opacity: 0.75;
     font-size: 0.9rem;
 }
 
 
 .right_side button {
-    background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+    background: #4285f4;
     outline: none;
     font-weight: bold;
     border: 1px solid #4285f4;
